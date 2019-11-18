@@ -1,0 +1,42 @@
+body{
+	background-color:rgb(219, 152, 210);
+	font-family:arial, sans-serif;
+	font-size:14px;
+}
+p{
+	line-height:1.6em;
+}
+.container{
+	margin:0 auto;
+	padding:20px;
+	max-width:90%;
+}
+h3{
+	font-size:30px;
+	text-align:center;
+	color:blue;
+}
+h4{
+	font-size:20px;
+	text-align:center;
+	color:blue;
+}
+.articleone{
+	
+	font-size:18px;
+	font-family:tacoma;
+	
+}
+
+
+.articlethree{
+	
+	font-size:18px;
+	font-family:tacoma;
+}
+.event{
+	border:2px solid blue;
+	background-color:lightblue;
+	padding:20px;
+	margin:10px;
+}
